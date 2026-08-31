@@ -1,10 +1,9 @@
 import React from 'react'
-import './App.css'
 
 const About = () => {
   return (
-    <div>
-      <h1 className='saugt'>About Us</h1>
+    <div className="p-8">
+      <h1 className="text-3xl font-bold">About Us</h1>
     </div>
   )
 }
